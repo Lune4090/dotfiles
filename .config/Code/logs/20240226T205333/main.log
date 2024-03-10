@@ -1,0 +1,6 @@
+2024-02-26 20:53:33.329 [info] update#setState idle
+2024-02-26 20:53:34.835 [error] update#isLatestVersion(): failed to check for updates
+2024-02-26 20:53:34.836 [error] Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-02-26 20:53:51.159 [info] Extension host with pid 3245 exited with code: 0, signal: unknown.

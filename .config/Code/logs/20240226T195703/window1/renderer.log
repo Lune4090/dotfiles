@@ -1,0 +1,4 @@
+2024-02-26 19:57:05.738 [info] Started local extension host with pid 13443.
+2024-02-26 19:57:05.854 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lune/.vscode/extensions
+2024-02-26 19:57:06.336 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/lune/.vscode/extensions
+2024-02-26 19:57:09.178 [info] [perf] Render performance baseline is 36ms

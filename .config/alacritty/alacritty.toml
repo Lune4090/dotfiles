@@ -1,0 +1,19 @@
+[colors.normal]
+black = "0x393b44"
+blue = "0x719cd6"
+cyan = "0x63cdcf"
+green = "0x81b29a"
+magenta = "0x9d79d6"
+red = "0xc94f6d"
+white = "0xdfdfe0"
+yellow = "0xdbc074"
+
+[colors.primary]
+background = "0x192330"
+foreground = "0xcdcecf"
+
+[font]
+size = 12
+
+[font.normal]
+family = "JetBrains Mono NL Nerd Font"

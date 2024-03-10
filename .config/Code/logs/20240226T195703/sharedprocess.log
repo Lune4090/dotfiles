@@ -1,0 +1,11 @@
+2024-02-26 19:57:07.533 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/nix/store/zgy8a5y2asybvzvpyb84p67blfzwgmg9-vscode-1.86.2/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/nix/store/zgy8a5y2asybvzvpyb84p67blfzwgmg9-vscode-1.86.2/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/nix/store/zgy8a5y2asybvzvpyb84p67blfzwgmg9-vscode-1.86.2/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/nix/store/zgy8a5y2asybvzvpyb84p67blfzwgmg9-vscode-1.86.2/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/nix/store/zgy8a5y2asybvzvpyb84p67blfzwgmg9-vscode-1.86.2/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/nix/store/zgy8a5y2asybvzvpyb84p67blfzwgmg9-vscode-1.86.2/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/nix/store/zgy8a5y2asybvzvpyb84p67blfzwgmg9-vscode-1.86.2/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/nix/store/zgy8a5y2asybvzvpyb84p67blfzwgmg9-vscode-1.86.2/lib/vscode/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
